@@ -1,0 +1,108 @@
+* {
+    padding:0px;
+    margin:0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+body {
+    overflow: scroll;
+    height: 10000px;
+    width:100%;
+}
+header {
+    background-color:black;
+    color: white;
+    height:50px;
+    width:100%;
+
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 10px;
+    position:relative;
+    width: 600px;
+    margin-left: 200px;
+    text-align: center;
+    
+    
+
+
+}
+
+
+.pic1 {
+    text-align: center;
+    
+}
+.pic2 {
+    padding: 15px;
+    position: relative;
+}
+.pic3 {
+    float:right;
+    padding: 15px;
+    margin-top: -460px;
+    position: relative;
+}
+.gra1 {
+    margin-left: 300px;
+    font-size: 30px;
+
+}
+.gra2 {
+
+}
+
+
+.svg {
+    float: right;
+    margin-top: 15px;
+    margin-right: 200px;
+    
+    
+
+}
+.title {
+    font-weight: bolder;
+    font-size:75px;
+    text-align:center;
+}
+.undertitle {
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -20px;
+    
+}
+main {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color:#F1F1F1;
+    height: 100%;
+}
+svg:hover {
+    color: gray;
+}
+.h1:hover {
+    color: gray;
+}
+.h2:hover {
+    color: gray;
+}
+.h3:hover {
+    color: gray;
+}
+.h4:hover {
+    color: gray;
+}
+.h5:hover {
+    color: gray;
+}
+.h6:hover {
+    color: gray;
+}
+.mcforza {
+    
+}
